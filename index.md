@@ -5,4 +5,4 @@
 
 I work in Numerical Reasoning of large language models.
 
-![](/home/jasivansivakumar/Documents/git-lesson/SLT_google_form_banner.png)
+![](SLT_google_form_banner.png)
